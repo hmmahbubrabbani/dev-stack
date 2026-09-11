@@ -1,0 +1,242 @@
+[
+  {
+    "id": "react",
+    "name": "React",
+    "badge": "Popular",
+    "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "category": "Frontend",
+    "level": "Beginner-Friendly",
+    "rating": 4.9
+  },
+  {
+    "id": "vue",
+    "name": "Vue.js",
+    "badge": "Versatile",
+    "description": "An approachable, performant, and versatile framework for building web user interfaces.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+    "category": "Frontend",
+    "level": "Beginner-Friendly",
+    "rating": 4.8
+  },
+  {
+    "id": "svelte",
+    "name": "Svelte",
+    "badge": "Fast",
+    "description": "Cybernetically enhanced web apps with compile-time reactivity and zero virtual DOM overhead.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": "nextjs",
+    "name": "Next.js",
+    "badge": "Fullstack",
+    "description": "The React framework for full-stack web applications with hybrid static & server rendering.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "rating": 4.9
+  },
+  {
+    "id": "nodejs",
+    "name": "Node.js",
+    "badge": "Standard",
+    "description": "An asynchronous event-driven JavaScript runtime built on Chrome's V8 engine.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    "category": "Backend",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": "express",
+    "name": "Express.js",
+    "badge": "Minimal",
+    "description": "Fast, unopinionated, minimalist web framework for Node.js backends and REST APIs.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+    "category": "Backend",
+    "level": "Beginner-Friendly",
+    "rating": 4.7
+  },
+  {
+    "id": "django",
+    "name": "Django",
+    "badge": "Batteries-Included",
+    "description": "A high-level Python web framework that encourages rapid development and clean design.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg",
+    "category": "Backend",
+    "level": "Intermediate",
+    "rating": 4.7
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "badge": "Top SQL",
+    "description": "A powerful, open-source object-relational database system with proven reliability.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+    "category": "Database",
+    "level": "Intermediate",
+    "rating": 4.9
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "badge": "NoSQL",
+    "description": "A flexible, document-based NoSQL database designed for modern scalable applications.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+    "category": "Database",
+    "level": "Beginner-Friendly",
+    "rating": 4.7
+  },
+  {
+    "id": "mysql",
+    "name": "MySQL",
+    "badge": "Classic",
+    "description": "The world's most popular open-source relational database management system.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+    "category": "Database",
+    "level": "Beginner-Friendly",
+    "rating": 4.6
+  },
+  {
+    "id": "redis",
+    "name": "Redis",
+    "badge": "Cache",
+    "description": "In-memory data structure store used as a high-speed database, cache, and message broker.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg",
+    "category": "Database",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "badge": "Essential",
+    "description": "A strongly typed programming language that builds on JavaScript for robust tooling.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    "category": "Language",
+    "level": "Intermediate",
+    "rating": 4.9
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "badge": "Ubiquitous",
+    "description": "The versatile, ubiquitous scripting language powering dynamic behavior across the web.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "category": "Language",
+    "level": "Beginner-Friendly",
+    "rating": 4.9
+  },
+  {
+    "id": "python",
+    "name": "Python",
+    "badge": "Clean",
+    "description": "A high-level language with elegant syntax, vast standard library, and great readability.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+    "category": "Language",
+    "level": "Beginner-Friendly",
+    "rating": 4.9
+  },
+  {
+    "id": "tailwind",
+    "name": "Tailwind CSS",
+    "badge": "Modern",
+    "description": "A utility-first CSS framework packed with classes that can be composed to build custom UI.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+    "category": "Styling",
+    "level": "Beginner-Friendly",
+    "rating": 4.9
+  },
+  {
+    "id": "daisyui",
+    "name": "DaisyUI",
+    "badge": "Components",
+    "description": "The most popular component library for Tailwind CSS with clean semantic class names.",
+    "icon": "https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png",
+    "category": "Styling",
+    "level": "Beginner-Friendly",
+    "rating": 4.7
+  },
+  {
+    "id": "sass",
+    "name": "Sass",
+    "badge": "Preprocessor",
+    "description": "A mature, stable, and powerful CSS preprocessor with variables, nesting, and mixins.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
+    "category": "Styling",
+    "level": "Beginner-Friendly",
+    "rating": 4.6
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "badge": "Containers",
+    "description": "A platform designed to build, share, and run containerized applications reliably.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "rating": 4.9
+  },
+  {
+    "id": "kubernetes",
+    "name": "Kubernetes",
+    "badge": "Orchestration",
+    "description": "An open-source system for automating deployment, scaling, and management of containerized apps.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg",
+    "category": "DevOps",
+    "level": "Advanced",
+    "rating": 4.7
+  },
+  {
+    "id": "githubactions",
+    "name": "GitHub Actions",
+    "badge": "CI/CD",
+    "description": "Automate, customize, and execute software CI/CD development workflows seamlessly.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg",
+    "category": "DevOps",
+    "level": "Intermediate",
+    "rating": 4.8
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "badge": "Version Control",
+    "description": "A fast distributed version control system tracking changes in source code during development.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    "category": "Tools",
+    "level": "Beginner-Friendly",
+    "rating": 5.0
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "badge": "Collaboration",
+    "description": "The complete developer platform for code hosting, code review, and issue tracking.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+    "category": "Tools",
+    "level": "Beginner-Friendly",
+    "rating": 4.9
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "badge": "UI/UX",
+    "description": "The leading collaborative interface design, prototyping, and wireframing vector tool.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+    "category": "Tools",
+    "level": "Beginner-Friendly",
+    "rating": 4.8
+  },
+  {
+    "id": "vite",
+    "name": "Vite",
+    "badge": "Bundler",
+    "description": "Next-generation frontend tooling providing lightning-fast build and dev environment speeds.",
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg",
+    "category": "Tools",
+    "level": "Beginner-Friendly",
+    "rating": 4.9
+  }
+]
