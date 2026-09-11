@@ -109,7 +109,6 @@ export default function App() {
             </p>
           </div>
 
-         
           <Suspense fallback= {
               <div className="py-20 text-center">
                 <div className="inline-block w-8 h-8 border-4 border-pink-500 border-t-transparent rounded-full animate-spin"></div>
@@ -126,7 +125,9 @@ export default function App() {
               onClearStack={handleClearStack}
             />
           </Suspense>
+          
         </main>
+
       </div>
 
       <Footer />
