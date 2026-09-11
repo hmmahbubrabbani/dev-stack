@@ -1,32 +1,43 @@
-# React + TypeScript + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# ⚡ Dev Stack
 
-Currently, two official plugins are available:
+**An interactive ecosystem tool curated for developers to explore, filter, and assemble modern software engineering stacks.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-## React Compiler
+[**🌐 Live Preview**](https://your-deployment-link.vercel.app) • [**Report Issue**](https://github.com/your-username/dev-stack/issues)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+</div>
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## 📖 About The Project
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+**Dev Stack** is designed for modern developers and tech leads to evaluate and select the best tools for their software architecture. Instead of sifting through fragmented documentation, users can visually explore frontend libraries, backend runtimes, databases, and DevOps utilities in a unified workspace and build their ideal stack in real time.
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+---
+
+## 💻 Technologies Used
+
+| Domain | Technology | Usage |
+| :--- | :--- | :--- |
+| **Frontend Framework** | React 19 | Declarative UI rendering & async data handling |
+| **Type Safety** | TypeScript | Strict interfaces and compile-time verification |
+| **Styling & Design** | Tailwind CSS | Utility-driven modern layout with responsive UI |
+| **Bundler & Tooling** | Vite | Ultra-fast development server & optimized production builds |
+| **Toast Notifications** | React-Toastify | Instant real-time user feedback for actions |
+| **Icon Ecosystem** | Devicon CDN | High-resolution official developer brand icons |
+
+---
+
+## ✨ Key Features
+
+- **⚡ Real-Time Interactive Stack Manager:** Select technologies with a single click to instantly compile them into a sticky, synchronized stack sidebar that prevents duplicate selections.
+- **🔔 Dynamic Toast Feedback Engine:** Powered by `react-toastify`, providing clear visual feedback whenever technologies are added, removed, or the entire stack is reset.
+- **🎨 Curated Multi-Domain Catalog:** Browse comprehensive cards containing badges, ratings, and experience levels categorized across Frontend, Backend, Database, Language, Styling, DevOps, and Tools.
+
+---
