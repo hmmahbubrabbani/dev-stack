@@ -21,11 +21,7 @@
 ## 💻 Technologies Used:
 
 
-| **React 19** |
-| **TypeScript** |
-| **Tailwind CSS** |
-| **Vite **|
-| **Toast Notifications** |
+| **React 19** | **TypeScript** | **Tailwind CSS** | **Vite** | **Toast Notifications** |
 
 
 ---
